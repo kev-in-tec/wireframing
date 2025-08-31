@@ -27,5 +27,14 @@ Wireframing is the process of creating a simplified, visual blueprint of a websi
 
    ## Types Of Wireframes
    ### Low-Fidelity Wireframes
+   - These are simple sketches that focus on the layout and structure rather than details of the design.
+   - Is used in the early stages in the design development, to gather feedback of the structure before committing to a detailed design.
    ### High-Fidelity Wireframes
+   - These are more detailed designs showcasing how the final product should resemble.
+   - They contain the layout, typography and structure of the product.
+   - Handed over to developers as the final guide to the development of the product.
+   ##  Wireframe In The AirBnB-Clone Design
+   The Wireframe is a **High-Fidelity wireframe** because it contains details of the design layout, content placement, typography, navigation and a guide on user interactions with the application.
+   ## Wireframing Tools
+   
 
